@@ -62,7 +62,7 @@ Make sure you have the following installed:
 
 - **`scraper.py`**: Python script to scrape cryptocurrency data from CoinMarketCap.
 - **`Basic_EDA_&_Visualization_of_Crypto_Data.ipynb`**: Colab Notebook for exploratory data analysis and visualizations.
-- **`Data/`**: Folder containing the scraped data (if included).
+- **`Data/`**: Folder containing the scraped data.
 - **`requirements.txt`**: File listing all the required Python libraries.
 - **`README.md`**: Project documentation.
 
